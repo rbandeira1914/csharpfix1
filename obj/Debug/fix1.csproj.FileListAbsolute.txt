@@ -1,0 +1,7 @@
+C:\myWorkC\fix1\fix1\obj\Debug\fix1.csproj.CoreCompileInputs.cache
+C:\myWorkC\fix1\fix1\bin\Debug\fix1.exe.config
+C:\myWorkC\fix1\fix1\bin\Debug\fix1.exe
+C:\myWorkC\fix1\fix1\bin\Debug\fix1.pdb
+C:\myWorkC\fix1\fix1\obj\Debug\fix1.exe
+C:\myWorkC\fix1\fix1\obj\Debug\fix1.pdb
+C:\myWorkC\fix1\fix1\obj\Debug\fix1.csprojAssemblyReference.cache
