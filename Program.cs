@@ -13,7 +13,7 @@ namespace fix1
         {
 
             Conta x;
-            Console.Write("Bom dia");
+            
             Console.Write("Digite o nome do titular da conta");
             Console.WriteLine("");
             string nome = Console.ReadLine();
